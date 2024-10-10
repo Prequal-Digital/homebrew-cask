@@ -95,6 +95,7 @@ binance
 bing-wallpaper
 bitwarden
 bitwig-studio
+black-ink
 blender
 blender@lts
 blitz-gg
@@ -354,6 +355,7 @@ gb-studio
 gcs
 gdevelop
 genesys-cloud
+geoda
 geogebra
 geogebra@5
 git-credential-manager
@@ -391,16 +393,19 @@ hbuilderx
 heptabase
 herd
 heroic
+hhkb-studio
 holavpn
 home-assistant
 hoppscotch
 hstracker
 http-toolkit
 hydrus-network
+hyperbackupexplorer
 hyperkey
 ibackup-viewer
 ibkr
 ibm-cloud-cli
+icollections
 idrive
 igv
 iina+
@@ -434,12 +439,14 @@ joplin
 jordanbaird-ice
 josm
 julia
+julia@lts
 jumpshare
 jupyterlab
 juxtacode
 kaleidoscope
 kdenlive
 kdrive
+keepassxc@snapshot
 keyboard-cowboy
 keyman
 keymapp
@@ -464,6 +471,7 @@ libcblite-community
 libreoffice
 libreoffice-language-pack
 librewolf
+lidarr
 lightburn
 lightkey
 limitless
@@ -475,6 +483,7 @@ livebook
 lm-studio
 logi-options+
 logitech-g-hub
+logitune
 logos
 logseq
 lookaway
@@ -499,6 +508,7 @@ mailbutler
 marked
 markedit
 mcreator
+mdrp
 media-center
 mediainfo
 mediamate
@@ -535,6 +545,7 @@ minecraft-education
 mini-program-studio
 miniforge
 minisim
+minitube
 minizincide
 mist
 mitmproxy
@@ -557,6 +568,7 @@ mongodb-compass-readonly
 mongodb-compass@beta
 morgen
 motion
+motu-m-series
 mountain-duck
 mp3tag
 mqttx
@@ -569,6 +581,7 @@ multiapp
 multitouch
 multiviewer-for-f1
 mumuplayer
+murus
 native-access
 naver-whale
 navicat-for-mariadb
@@ -603,6 +616,7 @@ obs-advanced-scene-switcher
 obs@beta
 obsbot-center
 ocenaudio
+odrive
 okta-advanced-server-access
 ollama
 ollamac
@@ -618,6 +632,7 @@ openlens
 openrct2
 openscad@snapshot
 openshift-client
+openshot-video-editor@daily
 opera
 opera-gx
 opera@beta
@@ -659,6 +674,7 @@ piclist
 pieces
 pieces-os
 pile
+pingplotter
 pitch
 pixel-shift-combiner
 planet
@@ -721,11 +737,14 @@ quicktune
 quip
 racket
 rancher
+rapidapi
+rapidweaver
 razorsql
 readdle-spark
 reader
 readyapi
 reaper
+receipts
 rectangle
 rectangle-pro
 reflect
@@ -832,6 +851,8 @@ stash
 stats
 steamcmd
 steelseries-gg
+steermouse
+steinberg-activation-manager
 studio-3t
 sublime-text@dev
 superhuman
@@ -874,6 +895,7 @@ thunderbird@beta
 thunderbird@esr
 ticktick
 tidelift
+tiger-trade
 timemachinestatus
 timeular
 timing
@@ -909,6 +931,7 @@ twine
 typeface
 typora
 typora@dev
+ubiquiti-unifi-controller
 ueli
 uhk-agent
 ultimate
@@ -927,6 +950,7 @@ vamiga
 vbrokers
 vcam
 vellum
+videofusion
 vienna-assistant
 vimr
 virtualbox@beta
@@ -973,6 +997,7 @@ windows-app
 windscribe
 wing-personal
 wins
+wire
 wondershare-uniconverter
 wordpresscom-studio
 workflowy
@@ -1000,6 +1025,7 @@ zen-browser
 zeplin
 znote
 zoc
+zoho-mail
 zoom
 zoom-for-it-admins
 zotero
