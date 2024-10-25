@@ -1,6 +1,6 @@
 cask "follow@nightly" do
-  version "0.0.1-nightly.20241021"
-  sha256 "ed44a117e1631417ddbe5a224cbe63b1e6f6401ba5014cbcc992b6963dffa114"
+  version "0.1.0-nightly.20241023"
+  sha256 "55446a907000f5a5f5911cd461413d7bfdb483d0f5ca11256f52dc7dbad6ecf3"
 
   url "https://github.com/RSSNext/Follow/releases/download/nightly-#{version}/Follow-#{version}-macos-universal.dmg",
       verified: "github.com/RSSNext/Follow/"
@@ -13,6 +13,10 @@ cask "follow@nightly" do
     regex(/^nightly[._-]v?(\d+(?:\.\d+)+(?:[._-]nightly[._-]?\d+)?)$/i)
   end
 
+  conflicts_with cask: [
+    "follow",
+    "follow@alpha",
+  ]
   depends_on macos: ">= :big_sur"
 
   app "Follow.app"
